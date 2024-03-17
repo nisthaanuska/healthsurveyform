@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+body{
+    background-image: url("a.png");
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+p{
+    text-align: center;
+}
+.F{
+   height: 785px;
+   /* width: 600px; */
+   background-color: rgb(184, 100, 110);
+   margin-left: 90px;
+   margin-right: 90px;
+   margin-bottom: 90px;
+}
+.fi{
+   height: 40px;
+   width: 80px;
+}
+.g{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+select{
+    width: 170px;
+    height: 23px;
+}
+.fviii{
+   text-align: center;
+}
